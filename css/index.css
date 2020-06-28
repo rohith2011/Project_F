@@ -94,16 +94,17 @@ body{
     width: 100%;
     align-items: center;
     position: fixed;
-    top: 1px;
     padding: 0 1%;
     background-color: black;
     font-family: lucida sans;
 }
 
-a,span{
+.header_a,span{
     text-decoration: none;
     color: white;
     font-size: 15px;
+    position: relative;
+    top: 2px;
 }
 
 .top{
