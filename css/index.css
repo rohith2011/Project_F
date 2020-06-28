@@ -94,6 +94,7 @@ body{
     width: 100%;
     align-items: center;
     position: fixed;
+    top: 0px;
     padding: 0 1%;
     background-color: black;
     font-family: lucida sans;
